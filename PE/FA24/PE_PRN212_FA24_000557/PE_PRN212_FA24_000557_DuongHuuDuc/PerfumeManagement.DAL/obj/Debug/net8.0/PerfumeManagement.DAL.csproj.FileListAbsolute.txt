@@ -10,3 +10,6 @@ C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHu
 C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\obj\Debug\net8.0\refint\PerfumeManagement.DAL.dll
 C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\obj\Debug\net8.0\PerfumeManagement.DAL.pdb
 C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\obj\Debug\net8.0\ref\PerfumeManagement.DAL.dll
+C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\bin\Debug\net8.0\PerfumeManagement.DAL.runtimeconfig.json
+C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\obj\Debug\net8.0\PerfumeManagement.DAL.csproj.AssemblyReference.cache
+C:\FPT\GitHub\PRN212\PE\FA24\PE_PRN212_FA24_000557\PE_PRN212_FA24_000557_DuongHuuDuc\PerfumeManagement.DAL\obj\Debug\net8.0\PerfumeManagement.DAL.genruntimeconfig.cache
