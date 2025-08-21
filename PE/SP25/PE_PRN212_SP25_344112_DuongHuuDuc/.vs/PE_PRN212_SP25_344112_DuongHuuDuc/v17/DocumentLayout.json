@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SP25\\PE_PRN212_SP25_344112_DuongHuuDuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A313CB-9856-41AC-A49B-047F1022B259}|PlantNurseryManagement_SE182218\\PlantNurseryManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\sp25\\pe_prn212_sp25_344112_duonghuuduc\\plantnurserymanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A313CB-9856-41AC-A49B-047F1022B259}|PlantNurseryManagement_SE182218\\PlantNurseryManagement_SE182218.csproj|solutionrelative:plantnurserymanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A313CB-9856-41AC-A49B-047F1022B259}|PlantNurseryManagement_SE182218\\PlantNurseryManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\sp25\\pe_prn212_sp25_344112_duonghuuduc\\plantnurserymanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A313CB-9856-41AC-A49B-047F1022B259}|PlantNurseryManagement_SE182218\\PlantNurseryManagement_SE182218.csproj|solutionrelative:plantnurserymanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SP25\\PE_PRN212_SP25_344112_DuongHuuDuc\\PlantNurseryManagement_SE182218\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PlantNurseryManagement_SE182218\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SP25\\PE_PRN212_SP25_344112_DuongHuuDuc\\PlantNurseryManagement_SE182218\\MainWindow.xaml",
+              "RelativeToolTip": "PlantNurseryManagement_SE182218\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-20T06:49:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SP25\\PE_PRN212_SP25_344112_DuongHuuDuc\\PlantNurseryManagement_SE182218\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PlantNurseryManagement_SE182218\\LoginWindow.xaml",
+              "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SP25\\PE_PRN212_SP25_344112_DuongHuuDuc\\PlantNurseryManagement_SE182218\\LoginWindow.xaml",
+              "RelativeToolTip": "PlantNurseryManagement_SE182218\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-19T06:24:51.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

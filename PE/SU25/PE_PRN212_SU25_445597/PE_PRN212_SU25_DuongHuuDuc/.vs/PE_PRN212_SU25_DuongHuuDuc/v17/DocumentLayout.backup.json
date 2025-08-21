@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-19T05:57:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:52:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-19T05:39:06.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

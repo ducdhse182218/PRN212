@@ -1,0 +1,14 @@
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\bin\Debug\net8.0\SamStore.DAL.deps.json
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\bin\Debug\net8.0\SamStore.DAL.dll
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\bin\Debug\net8.0\SamStore.DAL.pdb
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.AssemblyInfoInputs.cache
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.AssemblyInfo.cs
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.csproj.CoreCompileInputs.cache
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.dll
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\refint\SamStore.DAL.dll
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.pdb
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\ref\SamStore.DAL.dll
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\bin\Debug\net8.0\SamStore.DAL.runtimeconfig.json
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.csproj.AssemblyReference.cache
+C:\FPT\FPT\Subject\PRN212\PE\FA24\PE_PRN212_FA24_SE182218\SamStore.DAL\obj\Debug\net8.0\SamStore.DAL.genruntimeconfig.cache

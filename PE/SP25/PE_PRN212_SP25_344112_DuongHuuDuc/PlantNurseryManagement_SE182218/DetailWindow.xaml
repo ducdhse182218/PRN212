@@ -1,0 +1,76 @@
+﻿<Window x:Class="PlantNurseryManagement_SE182218.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PlantNurseryManagement_SE182218"
+        mc:Ignorable="d"
+        Title="Detail Inventory - Spring 2025" Height="400" Width="500" Background="#FFD0E8D0" Loaded="Window_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel VerticalAlignment="Top" Margin="0,0,0,20">
+            <!-- InventoryId -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="InventoryId:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <TextBox x:Name="InventoryIdTextBox" Width="280" Height="20" Background="White"/>
+            </StackPanel>
+
+            <!-- Quantity -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Quantity:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <TextBox x:Name="QuantityTextBox" Width="280" Height="20" Background="White" />
+            </StackPanel>
+
+            <!-- Price -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Price:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <TextBox x:Name="PriceTextBox" Width="280" Height="20" Background="White"/>
+            </StackPanel>
+            
+            <!-- ArrivalDate -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="ArrivalDate:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <DatePicker x:Name="ArrivalDatePicker" Width="280"/>
+            </StackPanel>
+            
+            <!-- ShelfLife -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="ShelfLife:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <TextBox x:Name="ShelfLifeTextBox" Width="280" Height="20" Background="White"/>
+            </StackPanel>
+
+            <!-- Supplier -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Supplier:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <TextBox x:Name="SupplierTextBox" Width="280" Height="20" Background="White"/>
+            </StackPanel>
+            
+            <!-- PlantId -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Plant:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF2E7D32"/>
+                <ComboBox x:Name="PlantComboBox"
+                Width="280"
+                Height="22"
+                Background="White"
+                DisplayMemberPath="Name" ></ComboBox>
+
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button Content="Save" Width="80" Margin="0,0,10,0" Padding="5"
+                Background="#FF388E3C" Foreground="White" FontFamily="Arial" FontSize="12"
+                Click="SaveButton_Click"/>
+            <Button Content="Close" Width="80" Padding="5"
+                Background="#FF388E3C" Foreground="White" FontFamily="Arial" FontSize="12"
+                Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

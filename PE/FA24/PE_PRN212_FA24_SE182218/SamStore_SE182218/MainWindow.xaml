@@ -1,0 +1,105 @@
+﻿<Window x:Class="SamStore_SE182218.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SamStore_SE182218"
+        mc:Ignorable="d"
+        Title="PE07072024 Order Management Window" Height="600" Width="800" 
+        FontFamily="Arial" Background="#EDD5D3" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Controls: Add, Update, Delete, Search -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10" VerticalAlignment="Top">
+
+            <!-- Buttons -->
+            <Button x:Name="AddButton" Content="Add"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF06B6D4"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="AddButton_Click"/>
+
+            <Button x:Name="UpdateButton" Content="Update"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF06B6D4"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="UpdateButton_Click"/>
+
+            <Button x:Name="DeleteButton" Content="Delete"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF06B6D4"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="DeleteButton_Click"/>
+
+            <!-- Spacer -->
+            <StackPanel Width="40"/>
+
+            <!-- Search Label -->
+            <Label Content="Search:"
+           VerticalAlignment="Center"
+           FontFamily="Tahoma 13pt" 
+           FontSize="14"
+           Foreground="Blue"/>
+
+            <!-- Search Box -->
+            <TextBox x:Name="SearchTextBox"
+             Width="200"
+             Height="16"
+             Margin="5,0,5,0"
+             Background="#FFF0F9FF"
+             FontFamily="Tahoma"
+             FontSize="13"/>
+
+            <!-- Search Button -->
+            <Button Content="Search"
+            Width="80"
+            Padding="5"
+            Background="#FF06B6D4"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="SearchButton_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="SamPreOrderDataGrid"
+          Grid.Row="1"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          SelectionMode="Single"
+          FontFamily="Tahoma"
+          FontSize="13"
+          Background="White"
+          RowBackground="WhiteSmoke"
+          AlternatingRowBackground="#FFF5F5DC">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding PreOrderId}" Width="50"/>
+                <DataGridTextColumn Header="PreOrderNo" Binding="{Binding PreOrderNo}" Width="*"/>
+                <DataGridTextColumn Header="DepositAmount" Binding="{Binding DepositAmount}" Width="*"/>
+                <DataGridTextColumn Header="TotalAmount" Binding="{Binding TotalAmount}" Width="*"/>
+                <DataGridTextColumn Header="CustomerName" Binding="{Binding CustomerName}" Width="*"/>
+                <DataGridTextColumn Header="CustomerAddress" Binding="{Binding CustomerAddress}" Width="*"/>
+                <DataGridTextColumn Header="CustomerPhone" Binding="{Binding CustomerPhone}" Width="*"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="*"/>
+                <DataGridTextColumn Header="CreatedAt" Binding="{Binding CreatedAt}" Width="*"/>
+                <DataGridTextColumn Header="UpdatedAt" Binding="{Binding UpdatedAt}" Width="*"/>
+                <DataGridTextColumn Header="ProductId" Binding="{Binding ProductId}" Width="*"/>
+                <DataGridTextColumn Header="ProductName" Binding="{Binding Product.ProductName}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<Window x:Class="AirConditionerShop_DuongHuuDuc.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirConditionerShop_DuongHuuDuc"
+        mc:Ignorable="d"
+        Title="Air Condisioner Detail" Height="330" Width="600" 
+        Background="#FFD4F7D4" FontFamily="Arial" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="DetailWindowModeLabel" Content="Create | Update Air Conditioner" HorizontalAlignment="Left" Height="30" Margin="10,0,0,0" VerticalAlignment="Top" Width="560" FontSize="17" FontStyle="Italic" Foreground="Black"/>
+
+
+        <Label Content="Air Con ID: " HorizontalAlignment="Left" Height="26" Margin="60,29,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="AirConditionerIdTextBox" HorizontalAlignment="Left" Height="20" Margin="205,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="0"/>
+
+        <Label Content="Air Con Name: " HorizontalAlignment="Left" Height="26" Margin="60,55,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="AirConditionerNameTextBox" HorizontalAlignment="Left" Height="22" Margin="205,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="1"/>
+
+        <Label Content="Warranty: " HorizontalAlignment="Left" Height="26" Margin="60,81,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="WarrantyTextBox" HorizontalAlignment="Left" Height="22" Margin="205,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="2"/>
+
+        <Label Content="Sound Level: " HorizontalAlignment="Left" Height="26" Margin="60,108,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="SoundPressureLevelTextBox" HorizontalAlignment="Left" Height="22" Margin="205,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="3"/>
+
+        <Label Content="Feature Function: " HorizontalAlignment="Left" Height="26" Margin="60,134,0,0" VerticalAlignment="Top" Width="149" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="FeatureFunctionTextBox" HorizontalAlignment="Left" Height="45" Margin="205,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="4"/>
+
+        <Label Content="Quantity" HorizontalAlignment="Left" Height="25" Margin="60,186,0,0" VerticalAlignment="Top" Width="98" Foreground="#FF4500" FontSize="14" RenderTransformOrigin="0.528,-0.679"/>
+        <TextBox x:Name="QuantityTextBox" HorizontalAlignment="Left" Height="23" Margin="205,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="4"/>
+
+        <Label Content="Price: " HorizontalAlignment="Left" Height="25" Margin="60,210,0,0" VerticalAlignment="Top" Width="149" Foreground="#FF4500" FontSize="14"/>
+        <TextBox x:Name="DollarPriceTextBox" HorizontalAlignment="Left" Height="21" Margin="205,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" TabIndex="4"/>
+
+        <Label Content="Supplier ID: " HorizontalAlignment="Left" Height="27" Margin="60,234,0,0" VerticalAlignment="Top" Width="149" Foreground="#FF4500" FontSize="14"/>
+        <ComboBox x:Name="SupplierIdComboBox" HorizontalAlignment="Left" Height="21" Margin="205,237,0,0" VerticalAlignment="Top" Width="317" TabIndex="4"/>
+
+        <Button x:Name="SaveButton" Content="Save Air Con" HorizontalAlignment="Left" Height="21" Margin="307,263,0,0" VerticalAlignment="Top" Width="119" TabIndex="8" Click="SaveButton_Click" />
+        <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Left" Height="21" Margin="445,263,0,0" VerticalAlignment="Top" Width="77" TabIndex="9" RenderTransformOrigin="0.813,0.513" Click="CloseButton_Click"/>
+
+    </Grid>
+</Window>

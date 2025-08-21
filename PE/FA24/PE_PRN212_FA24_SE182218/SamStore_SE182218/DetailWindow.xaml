@@ -1,0 +1,95 @@
+﻿<Window x:Class="SamStore_SE182218.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SamStore_SE182218"
+        mc:Ignorable="d"
+        Title="Detail Sam Pre Order Window" Height="500" Width="500" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel VerticalAlignment="Top" Margin="0,0,0,20">
+            
+
+            <!-- PreOrderNo -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="PreOrderNo:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="PreOrderNoTextBox" Width="280" Height="20" Background="#FFFFF8EB" />
+            </StackPanel>
+
+            <!-- DepositAmount -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="DepositAmount:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="DepositAmountTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- TotalAmount -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="TotalAmount:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="TotalAmountTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- CustomerName -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="CustomerName:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="CustomerNameTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- CustomerAddress -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="CustomerAddress:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="CustomerAddressTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- CustomerPhone -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="CustomerPhone:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="CustomerPhoneTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- Status -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Status:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <TextBox x:Name="StatusTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- CreatedAt -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="CreatedAt:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF6B705C"/>
+                <DatePicker x:Name="CreatedAtDatePicker" Width="280"/>
+            </StackPanel>
+
+            <!-- UpdatedAt -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="UpdatedAt:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF6B705C"/>
+                <DatePicker x:Name="UpdatedAtDatePicker" Width="280"/>
+            </StackPanel>
+
+            <!-- ProductId -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="ProductName:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF1E3A8A"/>
+                <ComboBox x:Name="ProductComboBox"
+            Width="280"
+            Height="22"
+            Background="#FFFFF8EB"
+            DisplayMemberPath="ProductName" ></ComboBox>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button Content="Save" Width="80" Margin="0,0,10,0" Padding="5"
+             Background="#FF06B6D4" Foreground="White" FontFamily="Arial" FontSize="12"
+             Click="SaveButton_Click"/>
+            <Button Content="Close" Width="80" Padding="5"
+             Background="#FF06B6D4" Foreground="White" FontFamily="Arial" FontSize="12"
+             Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

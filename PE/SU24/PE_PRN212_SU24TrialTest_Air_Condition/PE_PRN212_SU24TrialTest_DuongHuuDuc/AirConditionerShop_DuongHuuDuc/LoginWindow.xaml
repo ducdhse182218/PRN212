@@ -1,0 +1,25 @@
+﻿<Window x:Class="AirConditionerShop_DuongHuuDuc.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirConditionerShop_DuongHuuDuc"
+        mc:Ignorable="d"
+        Title="Login to the server" Height="330" Width="600" Background="#FFD4F7D4" FontFamily="Arial" 
+        WindowStartupLocation="CenterScreen" FontSize="14">
+    <Grid>
+        <Label Content="Login" HorizontalAlignment="Center" Foreground="Black" VerticalAlignment="Top" FontSize="40" FontWeight="Bold" Margin="0,27,0,0"/>
+        <Label Content="Email: " HorizontalAlignment="Left" Foreground="Black" FontSize="18" Margin="97,91,0,-91"/>
+
+        <TextBox x:Name="EmailAddressTextBox" HorizontalAlignment="Left" Height="25" Margin="204,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="16" TabIndex="0"/>
+
+        <Label Content="Password: " Foreground="Black" FontSize="18" Margin="97,157,-97,-157"/>
+
+        <PasswordBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="25" Margin="204,157,0,0" VerticalAlignment="Top" Width="300" FontSize="16" TabIndex="1"/>
+
+        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Margin="204,211,0,0" VerticalAlignment="Top" 
+                RenderTransformOrigin="2.045,0.366" Height="25" Width="92" Click="LoginButton_Click"/>
+        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Right" Margin="0,211,157,0" VerticalAlignment="Top" 
+                RenderTransformOrigin="2.045,0.366" Height="25" Width="92" Click="QuitButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,101 @@
+﻿<Window x:Class="PlantNurseryManagement_SE182218.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PlantNurseryManagement_SE182218"
+        mc:Ignorable="d"
+        Title="Plant Nursery Inventory Management - Spring 2025" Height="500" Width="800"
+        FontFamily="Arial" FontSize="13" Background="#FFD0E8D0" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Controls: Add, Update, Delete, Search -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10" VerticalAlignment="Top">
+
+            <!-- Buttons -->
+            <Button x:Name="AddButton" Content="Add"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF388E3C"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="AddButton_Click"/>
+
+            <Button x:Name="UpdateButton" Content="Update"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF388E3C"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="UpdateButton_Click"/>
+
+            <Button x:Name="DeleteButton" Content="Delete"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF388E3C"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="DeleteButton_Click"/>
+
+            <!-- Spacer -->
+            <StackPanel Width="40"/>
+
+            <!-- Search Label -->
+            <Label Content="Search:"
+            VerticalAlignment="Center"
+            FontFamily="Tahoma"
+            FontSize="12"
+            Foreground="#FF2E7D32"/>
+
+            <!-- Search Box -->
+            <TextBox x:Name="SearchTextBox"
+             Width="200"
+             Height="16"
+             Margin="5,0,5,0"
+             Background="#FFECF9EC"
+             FontFamily="Tahoma"
+             FontSize="13"/>
+
+            <!-- Search Button -->
+            <Button Content="Search"
+            Width="80"
+            Padding="5"
+            Background="#FF388E3C"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="Button_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="InventoryDataGrid"
+          Grid.Row="1"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          SelectionMode="Single"
+          FontFamily="Tahoma"
+          FontSize="13"
+          Background="White"
+          RowBackground="WhiteSmoke"
+          AlternatingRowBackground="#FFF5F5DC">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding InventoryId}" Width="50"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="*"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
+                <DataGridTextColumn Header="ArrivalDate" Binding="{Binding ArrivalDate}" Width="*"/>
+                <DataGridTextColumn Header="ShelfLife" Binding="{Binding ShelfLife}" Width="*"/>
+                <DataGridTextColumn Header="Supplier" Binding="{Binding Supplier}" Width="*"/>
+                <DataGridTextColumn Header="PlantId" Binding="{Binding PlantId}" Width="*"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Plant.Name}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
