@@ -25,14 +25,6 @@ namespace PerfumeManagement_SE182218
             InitializeComponent();
             _perfumeInformationService = new PerfumeInformationService();
             _psaccount = psaccount;
-
-            //if (_psaccount.Role == 3 && _psaccount.Role == 2)
-            //{
-            //    AddButton.IsEnabled = true;
-            //    UpdateButton.IsEnabled = true;
-            //    DeleteButton.IsEnabled = true;
-            //    DeleteButton.IsEnabled = true;
-            //}
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)

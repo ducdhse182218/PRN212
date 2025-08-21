@@ -60,8 +60,8 @@ namespace PerfumeManagement_SE182218
         private void FillComboBox()
         {
             ProductionCompanyComboBox.ItemsSource = _productionCompanyService.GetAll();
-            ProductionCompanyComboBox.DisplayMemberPath = "FullName";
-            ProductionCompanyComboBox.SelectedValuePath = "CandidateId";
+            ProductionCompanyComboBox.DisplayMemberPath = "ProductionCompanyName";
+            ProductionCompanyComboBox.SelectedValuePath = "ProductionCompanyId";
         }
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {

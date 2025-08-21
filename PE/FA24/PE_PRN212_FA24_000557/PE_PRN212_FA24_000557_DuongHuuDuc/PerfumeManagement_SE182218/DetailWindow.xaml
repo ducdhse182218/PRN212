@@ -51,12 +51,6 @@
                 <TextBox x:Name="LongevityTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
             </StackPanel>
 
-            <!-- ProductionCompanyId -->
-            <StackPanel Orientation="Horizontal" Margin="0,5">
-                <Label Content="ProductionCompanyId:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
-                <TextBox x:Name="ProductionCompanyIdTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
-            </StackPanel>
-
             <!-- ProductionCompany -->
             <StackPanel Orientation="Horizontal" Margin="0,5">
                 <Label Content="Name:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
@@ -64,7 +58,8 @@
                 Width="280"
                 Height="22"
                 Background="#FFFFF8EB"
-                DisplayMemberPath="ProductionCompanyName" ></ComboBox>
+                DisplayMemberPath="ProductionCompanyName" 
+                SelectedValuePath="ProductionCompanyId"></ComboBox>
             </StackPanel>
 
 
