@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|solutionrelative:perfumemanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|solutionrelative:perfumemanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08861B7-6E5A-493F-B65C-E204870B17DA}|PerfumeManagement.DAL\\PerfumeManagement.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement.dal\\entities\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08861B7-6E5A-493F-B65C-E204870B17DA}|PerfumeManagement.DAL\\PerfumeManagement.DAL.csproj|solutionrelative:perfumemanagement.dal\\entities\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|solutionrelative:perfumemanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|solutionrelative:perfumemanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\fa24\\pe_prn212_fa24_000557\\pe_prn212_fa24_000557_duonghuuduc\\perfumemanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80A39F99-ECF9-40CA-8AF5-14EF11FC786F}|PerfumeManagement_SE182218\\PerfumeManagement_SE182218.csproj|solutionrelative:perfumemanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductionCompany.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement.DAL\\Entities\\ProductionCompany.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement.DAL\\Entities\\ProductionCompany.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement.DAL\\Entities\\ProductionCompany.cs",
+              "RelativeToolTip": "PerfumeManagement.DAL\\Entities\\ProductionCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:30:20.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE182218\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "PerfumeManagement_SE182218\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwD8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:28:15.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE182218\\DetailWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\DetailWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE182218\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-21T09:29:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE182218\\LoginWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\LoginWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE182218\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-21T09:29:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE182218\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PerfumeManagement_SE182218\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:27:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE182218\\MainWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\MainWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE182218\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-21T09:12:38.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+﻿<Window x:Class="PerfumeManagement_SE182218.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PerfumeManagement_SE182218"
+        mc:Ignorable="d"
+        Title="Detail Window Perfume Management" Height="400" Width="500"
+        FontFamily="Tahoma" FontSize="13" Background="#FFDDE769" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel VerticalAlignment="Top" Margin="0,0,0,20">
+            <!-- PerfumeId -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="PerfumeId:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <TextBox x:Name="PerfumeIdTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- PerfumeName -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="PerfumeName:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <TextBox x:Name="PerfumeNameTextBox" Width="280" Height="20" Background="#FFFFF8EB" />
+            </StackPanel>
+
+            <!-- Ingredients -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Ingredients:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <TextBox x:Name="IngredientsTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- ReleaseDate -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="ReleaseDate:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <DatePicker x:Name="ReleaseDatePicker" Width="280" Height="25" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- Concentration -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Concentration:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <TextBox x:Name="ConcentrationTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- Longevity -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Longevity:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <TextBox x:Name="LongevityTextBox" Width="280" Height="20" Background="#FFFFF8EB"/>
+            </StackPanel>
+
+            <!-- ProductionCompany -->
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Name:" Width="140" FontFamily="Arial" FontSize="12" Foreground="#FF3324A8"/>
+                <ComboBox x:Name="ProductionCompanyComboBox"
+                Width="280"
+                Height="22"
+                Background="#FFFFF8EB"
+                DisplayMemberPath="ProductionCompanyName" 
+                SelectedValuePath="ProductionCompanyId"></ComboBox>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button Content="Save" Width="80" Margin="0,0,10,0" Padding="5"
+             Background="#FF3324A8" Foreground="White" FontFamily="Arial" FontSize="12"
+             Click="SaveButton_Click"/>
+            <Button Content="Close" Width="80" Padding="5"
+             Background="#FF3324A8" Foreground="White" FontFamily="Arial" FontSize="12"
+             Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\su25\\pe_prn212_su25_trialtest_duonghuuduc\\researchprojectmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|solutionrelative:researchprojectmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\su25\\pe_prn212_su25_trialtest_duonghuuduc\\researchprojectmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|solutionrelative:researchprojectmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C0FEBFE-EBD7-40DA-ADAA-A87AFD5ED552}|ResearchProjectManagement.DAL\\ResearchProjectManagement.DAL.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\su25\\pe_prn212_su25_trialtest_duonghuuduc\\researchprojectmanagement.dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0FEBFE-EBD7-40DA-ADAA-A87AFD5ED552}|ResearchProjectManagement.DAL\\ResearchProjectManagement.DAL.csproj|solutionrelative:researchprojectmanagement.dal\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\su25\\pe_prn212_su25_trialtest_duonghuuduc\\researchprojectmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C3E97A8-3E2D-4AAE-9F52-991C16FAC057}|ResearchProjectManagement_SE182218\\ResearchProjectManagement_SE182218.csproj|solutionrelative:researchprojectmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0FEBFE-EBD7-40DA-ADAA-A87AFD5ED552}|ResearchProjectManagement.DAL\\ResearchProjectManagement.DAL.csproj|c:\\fpt\\fpt\\subject\\prn212\\pe\\su25\\pe_prn212_su25_trialtest_duonghuuduc\\researchprojectmanagement.dal\\entities\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,20 +101,25 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "DetailWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\DetailWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\DetailWindow.xaml.cs",
               "ToolTip": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\DetailWindow.xaml.cs",
               "RelativeToolTip": "ResearchProjectManagement_SE182218\\DetailWindow.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswCsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswFQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T14:43:54.671Z"
+              "WhenOpened": "2025-07-20T14:43:54.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DetailWindow.xaml",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\DetailWindow.xaml",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\DetailWindow.xaml",
@@ -126,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ResearchProjectService.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement.BLL\\Services\\ResearchProjectService.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement.BLL\\Services\\ResearchProjectService.cs",
@@ -162,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\MainWindow.xaml.cs",
@@ -170,12 +175,11 @@
               "RelativeToolTip": "ResearchProjectManagement_SE182218\\MainWindow.xaml.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAcwEkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T13:02:55.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T13:02:55.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserAccountRepository.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement.DAL\\Repositories\\UserAccountRepository.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement.DAL\\Repositories\\UserAccountRepository.cs",
@@ -187,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserAccountService.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement.BLL\\Services\\UserAccountService.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement.BLL\\Services\\UserAccountService.cs",
@@ -306,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\LoginWindow.xaml.cs",
@@ -318,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\LoginWindow.xaml",
@@ -341,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\SU25\\PE_PRN212_SU25_TrialTest_DuongHuuDuc\\ResearchProjectManagement_SE182218\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ResearchProjectManagement_SE182218\\MainWindow.xaml",
@@ -349,10 +353,6 @@
               "RelativeToolTip": "ResearchProjectManagement_SE182218\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-20T12:56:56.976Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         },

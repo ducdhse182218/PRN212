@@ -1,0 +1,102 @@
+﻿<Window x:Class="PerfumeManagement_SE182218.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PerfumeManagement_SE182218"
+        mc:Ignorable="d"
+        Title="Fall 2024 - Main PE Management" Height="500" Width="800" 
+        FontFamily="Tahoma" FontSize="13" Background="#FFDDE769" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Controls: Add, Update, Delete, Search -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10" VerticalAlignment="Top">
+
+            <!-- Buttons -->
+            <Button x:Name="AddButton" Content="Add"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF3324A8"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="AddButton_Click"/>
+
+            <Button x:Name="UpdateButton" Content="Update"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF3324A8"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="UpdateButton_Click"/>
+
+            <Button x:Name="DeleteButton" Content="Delete"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="#FF3324A8"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="DeleteButton_Click"/>
+
+            <!-- Spacer -->
+            <StackPanel Width="40"/>
+
+            <!-- Search Label -->
+            <Label Content="Search:"
+           VerticalAlignment="Center"
+           FontFamily="Tahoma"
+           FontSize="14"
+           Foreground="#FF3324A8"
+           HorizontalAlignment="Center"/>
+
+            <!-- Search Box -->
+            <TextBox x:Name="SearchTextBox"
+             Width="200"
+             Height="16"
+             Margin="5,0,5,0"
+             Background="#FFF3CFCF"
+             FontFamily="Tahoma"
+             FontSize="13" TextAlignment="Right" />
+
+            <!-- Search Button -->
+            <Button Content="Search"
+            Width="80"
+            Padding="5"
+            Background="#FF3324A8"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="SearchButton_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="PerfumeDataGrid"
+          Grid.Row="1"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          SelectionMode="Single"
+          FontFamily="Tahoma"
+          FontSize="13"
+          Background="White"
+          RowBackground="WhiteSmoke"
+          AlternatingRowBackground="#FFF5F5DC">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="PerfumeId" Binding="{Binding PerfumeId}" Width="50"/>
+                <DataGridTextColumn Header="PerfumeName" Binding="{Binding PerfumeName}" Width="*"/>
+                <DataGridTextColumn Header="Ingredients" Binding="{Binding Ingredients}" Width="*"/>
+                <DataGridTextColumn Header="ReleaseDate" Binding="{Binding ReleaseDate}" Width="*"/>
+                <DataGridTextColumn Header="Concentration" Binding="{Binding Concentration}" Width="*"/>
+                <DataGridTextColumn Header="Longevity" Binding="{Binding Longevity}" Width="*"/>
+                <DataGridTextColumn Header="ProductionCompanyId" Binding="{Binding ProductionCompanyId}" Width="*"/>
+                <DataGridTextColumn Header="ProductionCompanyName" Binding="{Binding ProductionCompany.ProductionCompanyName}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
