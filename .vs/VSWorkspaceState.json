@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\PE",
-    "\\PE\\FA24",
     "\\PE\\FA24\\PE_PRN212_FA24_000557",
     "\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc",
-    "\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218"
+    "\\PE\\SU24",
+    "\\PE\\SU24\\PE_PRN212_SU24_118801"
   ],
-  "SelectedNode": "\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc\\PerfumeManagement_SE182218\\MainWindow.xaml",
+  "SelectedNode": "\\PE\\SU24\\PE_PRN212_SU24_118801",
   "PreviewInSolutionExplorer": false
 }
