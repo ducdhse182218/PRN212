@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.bll\\services\\uefaacountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|solutionrelative:germanyeuro2024.bll\\services\\uefaacountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.bll\\services\\footballteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|solutionrelative:germanyeuro2024.bll\\services\\footballteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.bll\\services\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DD34B-A9EE-4E40-BF18-F68F93F9C3CE}|GermanyEuro2024.BLL\\GermanyEuro2024.BLL.csproj|solutionrelative:germanyeuro2024.bll\\services\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\repositories\\uefaacountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\repositories\\uefaacountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\entities\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\entities\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\entities\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\entities\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\repositories\\footballplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\repositories\\footballplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\repositories\\footballteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\repositories\\footballteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024.dal\\germanyeuro2024.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A9CCD6E-5FE6-46DF-9902-98AEFBF387F1}|GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj|solutionrelative:germanyeuro2024.dal\\germanyeuro2024.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +82,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UefaacountService.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\UefaacountService.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.BLL\\Services\\UefaacountService.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\UefaacountService.cs",
+              "RelativeToolTip": "GermanyEuro2024.BLL\\Services\\UefaacountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:01:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UefaacountRepository.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\UefaacountRepository.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\Repositories\\UefaacountRepository.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\UefaacountRepository.cs",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\Repositories\\UefaacountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:56:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\LoginWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\LoginWindow.xaml",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T08:03:11.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballPlayerService.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\FootballPlayerService.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.BLL\\Services\\FootballPlayerService.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\FootballPlayerService.cs",
+              "RelativeToolTip": "GermanyEuro2024.BLL\\Services\\FootballPlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:58:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballTeamService.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\FootballTeamService.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.BLL\\Services\\FootballTeamService.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.BLL\\Services\\FootballTeamService.cs",
+              "RelativeToolTip": "GermanyEuro2024.BLL\\Services\\FootballTeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:00:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:21:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:07:46.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FootballPlayer.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Entities\\FootballPlayer.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\Entities\\FootballPlayer.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Entities\\FootballPlayer.cs",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\Entities\\FootballPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:01:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\DetailWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\DetailWindow.xaml",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T08:03:38.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:14:11.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FootballTeam.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Entities\\FootballTeam.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\Entities\\FootballTeam.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Entities\\FootballTeam.cs",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\Entities\\FootballTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:16:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\MainWindow.xaml",
               "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml",
               "RelativeToolTip": "GermanyEuro2024_SE182218\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T07:26:14.733Z",
+              "WhenOpened": "2025-08-22T08:10:19.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
-              "RelativeToolTip": "GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\App.xaml",
+              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\App.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\App.xaml",
+              "RelativeToolTip": "GermanyEuro2024_SE182218\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T08:03:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FootballPlayerRepository.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\FootballPlayerRepository.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\Repositories\\FootballPlayerRepository.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\FootballPlayerRepository.cs",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\Repositories\\FootballPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T07:26:10.557Z",
+              "WhenOpened": "2025-08-22T07:53:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FootballTeamRepository.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\FootballTeamRepository.cs",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\Repositories\\FootballTeamRepository.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\Repositories\\FootballTeamRepository.cs",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\Repositories\\FootballTeamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:56:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GermanyEuro2024.DAL",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj",
+              "RelativeDocumentMoniker": "GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj",
+              "RelativeToolTip": "GermanyEuro2024.DAL\\GermanyEuro2024.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T07:52:59.712Z",
               "EditorCaption": ""
             }
           ]

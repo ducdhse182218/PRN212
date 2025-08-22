@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\PE",
-    "\\PE\\FA24\\PE_PRN212_FA24_000557",
-    "\\PE\\FA24\\PE_PRN212_FA24_000557\\PE_PRN212_FA24_000557_DuongHuuDuc",
     "\\PE\\SU24",
-    "\\PE\\SU24\\PE_PRN212_SU24_118801"
+    "\\PE\\SU24\\PE_PRN212_SU24_118801",
+    "\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc",
+    "\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218"
   ],
-  "SelectedNode": "\\PE\\SU24\\PE_PRN212_SU24_118801",
+  "SelectedNode": "\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

@@ -5,8 +5,97 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GermanyEuro2024_SE182218"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="PE118801 - Main PE Management Window" Height="500" Width="800" 
+        FontFamily="Tahoma" FontSize="13" Background="#FFF2F184" 
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
+        <!-- Controls: Add, Update, Delete, Search -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10" VerticalAlignment="Top">
+
+            <!-- Buttons -->
+            <Button x:Name="AddButton" Content="Add"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="Blue"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="AddButton_Click"/>
+
+            <Button x:Name="UpdateButton" Content="Update"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="Blue"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="UpdateButton_Click"/>
+
+            <Button x:Name="DeleteButton" Content="Delete"
+            Width="80"
+            Margin="0,0,10,0"
+            Padding="5"
+            Background="Blue"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="DeleteButton_Click"/>
+
+            <!-- Spacer -->
+            <StackPanel Width="40"/>
+
+            <!-- Search Label -->
+            <Label Content="Search:"
+           VerticalAlignment="Center"
+           FontFamily="Tahoma"
+           FontSize="14"
+           Foreground="Blue"/>
+
+            <!-- Search Box -->
+            <TextBox x:Name="SearchTextBox"
+             Width="200"
+             Height="16"
+             Margin="5,0,5,0"
+             Background="#FFF0F9FF"
+             FontFamily="Tahoma"
+             FontSize="13" TextAlignment="Right" Foreground="Blue"/>
+
+            <!-- Search Button -->
+            <Button Content="Search"
+            Width="80"
+            Padding="5"
+            Background="Blue"
+            Foreground="White"
+            FontFamily="Arial"
+            FontSize="12" Click="SearchButton_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="FootballTeamDataGrid"
+          Grid.Row="1"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          SelectionMode="Single"
+          FontFamily="Tahoma"
+          FontSize="13"
+          Background="White"
+          RowBackground="WhiteSmoke"
+          AlternatingRowBackground="#FFF5F5DC">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="PlayerId" Binding="{Binding PlayerId}" Width="50"/>
+                <DataGridTextColumn Header="PlayerName" Binding="{Binding PlayerName}" Width="*"/>
+                <DataGridTextColumn Header="Achievements" Binding="{Binding Achievements}" Width="*"/>
+                <DataGridTextColumn Header="Birthday" Binding="{Binding Birthday}" Width="*"/>
+                <DataGridTextColumn Header="OriginCountry" Binding="{Binding OriginCountry}" Width="*"/>
+                <DataGridTextColumn Header="Award" Binding="{Binding Award}" Width="*"/>
+                <DataGridTextColumn Header="FootballTeamId" Binding="{Binding FootballTeamId}" Width="*"/>
+                <DataGridTextColumn Header="TeamTitle" Binding="{Binding FootballTeam.TeamTitle}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

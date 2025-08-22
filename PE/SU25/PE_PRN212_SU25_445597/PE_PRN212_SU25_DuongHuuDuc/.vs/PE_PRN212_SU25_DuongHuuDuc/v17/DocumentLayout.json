@@ -3,38 +3,6 @@
   "WorkspaceRootPath": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.bll\\services\\jlptaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|solutionrelative:jlptmocktestmanagement.bll\\services\\jlptaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|solutionrelative:jlptmocktestmanagement.bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.bll\\services\\mocktestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|solutionrelative:jlptmocktestmanagement.bll\\services\\mocktestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,12 +11,44 @@
       "RelativeMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|solutionrelative:jlptmocktestmanagement.dal\\repository\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.dal\\repository\\jlptaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|solutionrelative:jlptmocktestmanagement.dal\\repository\\jlptaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.bll\\services\\jlptaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|solutionrelative:jlptmocktestmanagement.bll\\services\\jlptaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9896D3B3-FB36-4A92-AEFE-5A868AC3FDCD}|JLPTMockTestManagement_SE182218\\JLPTMockTestManagement_SE182218.csproj|solutionrelative:jlptmocktestmanagement_se182218\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AEDAD1-A031-4F88-9C88-8F2A7AE83851}|JLPTMockTestManagement.BLL\\JLPTMockTestManagement.BLL.csproj|solutionrelative:jlptmocktestmanagement.bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.dal\\repository\\mocktestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|solutionrelative:jlptmocktestmanagement.dal\\repository\\mocktestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|c:\\fpt\\github\\prn212\\pe\\su25\\pe_prn212_su25_445597\\pe_prn212_su25_duonghuuduc\\jlptmocktestmanagement.dal\\repository\\jlptaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9C205-14E2-457E-9D62-2D2E53265C0C}|JLPTMockTestManagement.DAL\\JLPTMockTestManagement.DAL.csproj|solutionrelative:jlptmocktestmanagement.dal\\repository\\jlptaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 7,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
-              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-20T07:24:46.511Z"
             },
             {
               "$type": "Document",
@@ -83,30 +72,32 @@
               "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml.cs",
               "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\LoginWindow.xaml.cs",
               "RelativeToolTip": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwD4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:30:35.518Z"
+              "WhenOpened": "2025-08-20T07:30:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:52:04.59Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
-              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-19T05:57:48.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "DetailWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml.cs",
               "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml.cs",
               "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml.cs",
               "RelativeToolTip": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAzwC4AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwFkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T07:49:27.364Z",
               "EditorCaption": ""
@@ -114,6 +105,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JlptaccountService.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
+              "RelativeToolTip": "JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:32:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
+              "RelativeToolTip": "JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:20:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockTestService.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
+              "RelativeToolTip": "JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:21:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml",
               "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\MainWindow.xaml",
@@ -124,32 +154,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
-              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:52:04.59Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-19T05:57:48.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JlptaccountService.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
-              "RelativeToolTip": "JLPTMockTestManagement.BLL\\Services\\JlptaccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:32:58.64Z"
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
+              "RelativeToolTip": "JLPTMockTestManagement_SE182218\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-20T07:24:46.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CandidateService.cs",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\CandidateService.cs",
               "RelativeDocumentMoniker": "JLPTMockTestManagement.BLL\\Services\\CandidateService.cs",
@@ -161,31 +188,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MockTestService.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
-              "RelativeToolTip": "JLPTMockTestManagement.BLL\\Services\\MockTestService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:21:37.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CandidateRepository.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
-              "RelativeToolTip": "JLPTMockTestManagement.DAL\\Repository\\CandidateRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:20:19.724Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "MockTestRepository.cs",
+              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
+              "RelativeDocumentMoniker": "JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
+              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
+              "RelativeToolTip": "JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:18:44.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "JlptaccountRepository.cs",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\JlptaccountRepository.cs",
               "RelativeDocumentMoniker": "JLPTMockTestManagement.DAL\\Repository\\JlptaccountRepository.cs",
@@ -194,18 +209,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T07:31:12.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MockTestRepository.cs",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
-              "RelativeDocumentMoniker": "JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU25\\PE_PRN212_SU25_445597\\PE_PRN212_SU25_DuongHuuDuc\\JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
-              "RelativeToolTip": "JLPTMockTestManagement.DAL\\Repository\\MockTestRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:18:44.404Z"
             }
           ]
         },
