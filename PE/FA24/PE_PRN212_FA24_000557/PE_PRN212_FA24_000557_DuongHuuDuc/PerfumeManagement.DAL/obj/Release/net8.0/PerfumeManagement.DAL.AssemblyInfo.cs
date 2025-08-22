@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerfumeManagement.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8181bea07d3b5fda6da4981aa52cec139a1889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4bca14c91cbd1b1e5056a6bdf0b87dddc6ff9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerfumeManagement.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerfumeManagement.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

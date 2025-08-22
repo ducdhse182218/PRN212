@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JLPTMockTestManagement_SE182218")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8181bea07d3b5fda6da4981aa52cec139a1889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4bca14c91cbd1b1e5056a6bdf0b87dddc6ff9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("JLPTMockTestManagement_SE182218")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JLPTMockTestManagement_SE182218")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
