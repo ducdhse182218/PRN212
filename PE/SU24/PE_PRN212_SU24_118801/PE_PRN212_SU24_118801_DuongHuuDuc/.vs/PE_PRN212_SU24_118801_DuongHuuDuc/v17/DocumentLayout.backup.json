@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|c:\\fpt\\github\\prn212\\pe\\su24\\pe_prn212_su24_118801\\pe_prn212_su24_118801_duonghuuduc\\germanyeuro2024_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE53FEC9-7598-4869-A67D-A22C6B0E96FB}|GermanyEuro2024_SE182218\\GermanyEuro2024_SE182218.csproj|solutionrelative:germanyeuro2024_se182218\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,18 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\MainWindow.xaml",
-              "ToolTip": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml",
-              "RelativeToolTip": "GermanyEuro2024_SE182218\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-22T07:26:14.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\FPT\\GitHub\\PRN212\\PE\\SU24\\PE_PRN212_SU24_118801\\PE_PRN212_SU24_118801_DuongHuuDuc\\GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GermanyEuro2024_SE182218\\MainWindow.xaml.cs",
