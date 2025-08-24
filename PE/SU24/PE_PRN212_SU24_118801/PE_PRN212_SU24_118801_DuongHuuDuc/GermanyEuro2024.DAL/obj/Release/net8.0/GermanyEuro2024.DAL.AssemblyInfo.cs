@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GermanyEuro2024.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4bca14c91cbd1b1e5056a6bdf0b87dddc6ff9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4581c1910e6bcb077d4c7c26a12482bd5cae816c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GermanyEuro2024.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GermanyEuro2024.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

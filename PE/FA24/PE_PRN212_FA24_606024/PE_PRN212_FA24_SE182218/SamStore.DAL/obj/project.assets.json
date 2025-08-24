@@ -5023,11 +5023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\FA24\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\SamStore.DAL.csproj",
+      "projectUniqueName": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_606024\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\SamStore.DAL.csproj",
       "projectName": "SamStore.DAL",
-      "projectPath": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\FA24\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\SamStore.DAL.csproj",
+      "projectPath": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_606024\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\SamStore.DAL.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\FPT\\FPT\\Subject\\PRN212\\PE\\FA24\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\obj\\",
+      "outputPath": "C:\\FPT\\GitHub\\PRN212\\PE\\FA24\\PE_PRN212_FA24_606024\\PE_PRN212_FA24_SE182218\\SamStore.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
